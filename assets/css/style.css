@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    padding: 0;
+}
+
+.linktree {
+    background: url('https://slidescorner.com/wp-content/uploads/2023/02/01-Medical-Background-HD-Light-Blue-Hexagons-by-SlidesCorner.com_-1.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 20px;
+}
+
+.btn-width {
+    width: 300px;
+}
